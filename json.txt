@@ -1,0 +1,501 @@
+A-1.pdf
+
+{
+    "nome_modulo": "Allegato 2/A - Dichiarazione ai sensi dell'art. 94, comma 3 - D.Lgs. 36/2023",
+    "titolo_procedura": "Gestione dei servizi ecologici, di igiene urbana e dell’ambiente",
+    "comune": "Torre Boldone (BG)",
+    "codice_CUP": "B29I23001160004",
+    "codice_CIG": "B39F41E85A",
+  
+    "dichiarante_nome_completo": "Mario Rossi",
+    "dichiarante_data_nascita": "1975-03-15",
+    "dichiarante_luogo_nascita": "Bergamo, Italia",
+    "dichiarante_residenza": "Via dei Fiori 10, 24100 Bergamo (BG)",
+    "dichiarante_qualifica": "Legale Rappresentante",
+  
+    "ragione_sociale": "EcoServizi S.r.l.",
+    "codice_fiscale": "12345678901",
+    "partita_iva": "IT12345678901",
+  
+    "sede_legale_via": "Via delle Industrie 24",
+    "sede_legale_comune": "Torre Boldone",
+    "sede_legale_provincia": "BG",
+    "sede_legale_CAP": "24020",
+  
+    "telefono": "0351234567",
+    "cellulare": "3319876543",
+    "email": "info@companydemo.it",
+    "pec": "companydemo@pec.it",
+  
+    "forma_giuridica_impresa_individuale": true,
+    "forma_giuridica_consorzio_cooperative": false,
+    "forma_giuridica_consorzio_artigiani": false,
+    "forma_giuridica_consorzio_stabile": false,
+    "forma_giuridica_operatore_estero": false,
+  
+    "DGUE_parte": "III",
+    "DGUE_sezione": "A",
+    "DGUE_articoli": "94, 95",
+    "DGUE_descrizione": "Motivi legati a condanne penali",
+  
+    "dichiarazione_artt_46_47_DPR_445_2000": true,
+    "consapevole_sanzioni_art_76_DPR_445_2000": true,
+    "dichiarazione_veridicità_confermata": true
+  }
+
+
+
+DocumentDuvri.pdf
+{
+    "azienda_lavoratore_autonomo": "TechBuild S.r.l.",
+    "allegare_dvr_pos": "SI",
+    "medico_competente": {
+      "telefono": "+39 123 456 7890",
+      "email": "medico@techbuild.it"
+    },
+    "datore_di_lavoro": {
+      "telefono": "+39 987 654 3210",
+      "email": "datore@techbuild.it"
+    },
+    "rspp": {
+      "telefono": "+39 345 678 9012",
+      "email": "rspp@techbuild.it"
+    },
+    "capocantiere_ditta_appaltatrice": {
+      "telefono": "+39 321 654 9870",
+      "email": "capocantiere@techbuild.it"
+    },
+    "preposto_referente_impresa": {
+      "telefono": "+39 654 321 0987",
+      "email": "preposto@techbuild.it"
+    },
+    "descrizione_attivita": {
+      "rischi": "Esposizione a polveri e rumore durante le attività di demolizione.",
+      "oggetto_appalto": "Ristrutturazione uffici piano terra.",
+      "subappalto": "Installazione impianto elettrico affidato a ElettroImp S.n.c.",
+      "tempistiche": "Dal 10/05/2025 al 30/06/2025",
+      "periodicita_interventi": "F"
+    },
+    "composizione_squadra_lavoro": [
+      {
+        "nome": "Marco Rossi",
+        "ruolo": "Operaio specializzato",
+        "ditta": "TechBuild S.r.l."
+      },
+      {
+        "nome": "Luca Bianchi",
+        "ruolo": "Elettricista",
+        "ditta": "ElettroImp S.n.c."
+      }
+    ],
+    "valutazione_rischi_fasi_lavoro": [
+      {
+        "fase": "Demolizione pareti interne",
+        "rischi": "Crollo materiali, inalazione polveri",
+        "attrezzature_materiali": "Martello pneumatico, teli antipolvere",
+        "dpi_misure_cautela": "Casco, maschera FFP2, guanti, occhiali di protezione"
+      },
+      {
+        "fase": "Installazione impianto elettrico",
+        "rischi": "Elettrocuzione, cadute",
+        "attrezzature_materiali": "Trapano, cavi, scala",
+        "dpi_misure_cautela": "Guanti isolanti, scarpe antinfortunistiche, cintura di sicurezza"
+      }
+    ]
+  }
+  
+
+
+self declaration
+
+{
+  "name": "Rajesh Kumar",
+  "relation": "S/O",
+  "relative_name": "Ramakrishna Rao",
+  "age": 62,
+  "year": 1962,
+  "address": "H.No 5-2-34, Gandhi Nagar",
+  "district": "Warangal Urban",
+  "state": "Telangana",
+  "country": "India",
+  "aadhar_number": "1234-5678-9123",
+  "date": "2025-04-22",
+  "mobile_number": "9876543210",
+  "signature": "Rajesh Kumar"
+}
+
+
+
+#multipage.pdf
+{
+  "parent_name": "Ramesh Kumar",
+  "child_name": "Ananya Kumar",
+  "child_age": 6,
+  "application_code": "RTE-2025-AMB123456",
+  "residence_address": "123 Green Valley Road, Ambassa, Tripura, 799289",
+  "distance_from_school_km": 4.2,
+  "date": "2025-04-23",
+  "place": "Ambassa",
+  "mobile_no": "9876543210",
+
+  "document_truth_confirmation": true,
+  "caste_certificate_submission_deadline": "2025-07-23",
+
+  "service_certificate": {
+    "employee_name": "Ramesh Kumar",
+    "employment_type": "Regular",
+    "designation": "Junior Engineer",
+    "department": "Ministry of Railways",
+    "employment_category": "Central Govt.",
+    "is_transferable": true,
+    "office_address": "Railway Bhawan, New Delhi, India - 110001",
+    "office_phone": "011-12345678"
+  },
+
+  "transfer_certificate": {
+    "transfers": [
+      {
+        "office_name": "Railway Zonal Office, Kolkata",
+        "joining_date": "2018-01-10",
+        "release_date": "2020-04-15",
+        "period_days": 825,
+        "new_office": "Railway Division Office, Guwahati",
+        "distance_km": 1100,
+        "transfer_order_no": "TRF/2018/KO-GW/45"
+      },
+      {
+        "office_name": "Railway Division Office, Guwahati",
+        "joining_date": "2020-04-20",
+        "release_date": "2023-01-15",
+        "period_days": 1000,
+        "new_office": "Railway Workshop, Ambassa",
+        "distance_km": 750,
+        "transfer_order_no": "TRF/2020/GW-AM/89"
+      }
+    ],
+    "certifier_name": "Pradeep Sharma",
+    "certifier_designation": "Senior Personnel Officer"
+  },
+
+  "state_service_certificate": {
+    "employee_name": "Anjali Sharma",
+    "employment_type": "Permanent",
+    "designation": "School Teacher",
+    "department": "Education Ministry",
+    "employment_category": "State Govt.",
+    "state_name": "Tripura",
+    "office_address": "Education Dept., Civil Secretariat, Agartala, Tripura",
+    "office_phone": "0381-7654321"
+  },
+
+  "single_girl_child_affidavit": {
+    "parent_father_name": "Ramesh Kumar",
+    "parent_mother_name": "Anjali Sharma",
+    "child_name": "Ananya Kumar",
+    "dob": "2019-09-15",
+    "is_single_girl_child": true,
+    "residential_address": "123 Green Valley Road, Ambassa, Tripura, 799289"
+  }
+}
+
+
+
+Annexure.pdf
+
+{
+  "AnnexureI_CasteCertificate": {
+    "applicant_name": "Ravi Kumar",
+    "father_or_mother_name": "Suresh Kumar",
+    "village_town": "Testpur",
+    "district_division": "Demo District",
+    "state_union_territory": "Test State",
+    "caste": "Test Caste",
+    "order_selected": "The Constitution Scheduled Caste Order, 1950",
+    "order_amendments": [
+      "Scheduled Castes and Scheduled Tribes List (Modification) Order 1956",
+      "Scheduled Castes Orders (Amendment) Act, 1990"
+    ],
+    "migration_details": {
+      "parent_name": "Suresh Kumar",
+      "parent_certificate_date": "15/02/2020",
+      "parent_certificate_issued_by": "District Magistrate, Demo District",
+      "origin_village_town": "Oldtestpur",
+      "origin_district_division": "Old Demo District",
+      "origin_state_union_territory": "Old Test State",
+      "origin_caste": "Test Caste"
+    },
+    "residence": {
+      "village_town": "Testpur",
+      "district_division": "Demo District",
+      "state_union_territory": "Test State"
+    },
+    "place_of_issue": "Demo City",
+    "date_of_issue": "01/01/2025",
+    "signature": "Dr. A. Official",
+    "designation": "District Magistrate",
+    "office_seal": true,
+    "state_union_territory_of_issue": "Test State"
+  },
+  "AnnexureII_OBC_Certificate": {
+    "applicant_name": "Priya Sharma",
+    "father_or_mother_name": "Anil Sharma",
+    "village": "Obcville",
+    "district_division": "OBC District",
+    "state": "Obc State",
+    "community": "Test OBC Community",
+    "resolution_references": [
+      "12011/68/93-BCC, dated 10-09-1993",
+      "12011/9/94-BCC, dated 19-10-1994",
+      "12011/36/99-BCC, dated 04-04-2000"
+    ],
+    "residence": {
+      "village_or_town": "Obcville",
+      "district_division": "OBC District",
+      "state": "Obc State"
+    },
+    "creamy_layer_declaration": "Does not belong to Creamy Layer",
+    "date_of_issue": "05/03/2025",
+    "issuing_officer": "Deputy Commissioner, OBC District",
+    "office_seal": true
+  },
+  "AnnexureIIa_OBC_Declaration": {
+    "candidate_name": "Priya Sharma",
+    "father_or_mother_name": "Anil Sharma",
+    "residence_village_town_city": "Obcville",
+    "residence_district": "OBC District",
+    "residence_state": "Obc State",
+    "community": "Test OBC Community",
+    "non_creamy_layer_clause": "I do not belong to the Creamy Layer as per O.M.No.36012/22/93-Estt(SCT)",
+    "place": "Obcville",
+    "date": "05/03/2025",
+    "signature": "Priya Sharma"
+  },
+  "AnnexureIII_EWS_Certificate": {
+    "certificate_number": "EWS-2025-001",
+    "date_of_issue": "10/04/2025",
+    "valid_for_year": "2025–2026",
+    "applicant_name": "Arjun Patel",
+    "father_or_husband_name": "Mahesh Patel",
+    "permanent_address": {
+      "village_street": "Ews Street",
+      "post_office": "Ews PO",
+      "district": "EWS District",
+      "state_union_territory": "Ews State",
+      "pin_code": "123456"
+    },
+    "gross_annual_income": "Rs. 6,75,000",
+    "financial_year": "2024–2025",
+    "assets": {
+      "agricultural_land": "2 acres",
+      "residential_flat": "800 sq.ft",
+      "residential_plot_municipal": "80 sq. yards",
+      "residential_plot_non_municipal": "150 sq. yards"
+    },
+    "caste": "General",
+    "office_seal": true,
+    "issuing_officer": "Tehsildar, EWS District"
+  },
+  "AnnexureIV_GovtEmployee_AgeRelaxation": {
+    "applicant_name": "Sunita Rao",
+    "position_held": "Clerk",
+    "pay_scale": "Level 5",
+    "years_of_service": 5,
+    "service_in_grade": "Continuous",
+    "post_applied_for": "Assistant",
+    "no_objection": true,
+    "place": "Demo City",
+    "date": "12/04/2025",
+    "issuing_officer": "Head of Department, Demo Office",
+    "official_seal": true
+  },
+  "AnnexureV_Disability_FormV": {
+    "certificate_number": "DIS-V-1001",
+    "date_of_issue": "15/04/2025",
+    "applicant_name": "Rahul Singh",
+    "date_of_birth": "20/06/1990",
+    "age_years": 34,
+    "gender": "Male",
+    "registration_number": "REG-DSBL-2025-01",
+    "permanent_address": {
+      "house_no": "12",
+      "ward_village_street": "Disability Lane",
+      "post_office": "Dis PO",
+      "district": "Dis District",
+      "state": "Dis State",
+      "pin_code": "654321"
+    },
+    "disability_type": "Locomotor disability",
+    "diagnosis": "Left leg paralysis",
+    "percentage_impairment": "60%",
+    "part_of_body": "Left leg",
+    "proof_of_residence": [
+      {
+        "document_name": "Aadhaar Card",
+        "date_of_issue": "01/01/2020",
+        "issuing_authority": "UIDAI"
+      }
+    ],
+    "issuing_medical_authority": {
+      "name": "Dr. P. Surgeon",
+      "designation": "Chief Medical Officer",
+      "seal": true
+    }
+  },
+  "AnnexureVI_Disability_FormVI": {
+    "certificate_number": "DIS-VI-2001",
+    "date_of_issue": "16/04/2025",
+    "applicant_name": "Neha Verma",
+    "date_of_birth": "10/08/1985",
+    "age_years": 39,
+    "gender": "Female",
+    "registration_number": "REG-MULTI-2025-02",
+    "permanent_address": "34 Multi Road, Multi Town, Multi State, 789012",
+    "disabilities": [
+      {
+        "type": "Blindness",
+        "affected_part": "Both eyes",
+        "diagnosis": "Total blindness",
+        "impairment_percent": "100%"
+      },
+      {
+        "type": "Deafness",
+        "affected_part": "Both ears",
+        "diagnosis": "Profound deafness",
+        "impairment_percent": "90%"
+      }
+    ],
+    "overall_impairment": {
+      "in_figures": "95%",
+      "in_words": "Ninety-five percent"
+    },
+    "condition_progression": "Non-progressive",
+    "reassessment": {
+      "necessary": false
+    },
+    "proof_of_residence": [
+      {
+        "document_name": "Voter ID",
+        "date_of_issue": "15/05/2018",
+        "issuing_authority": "Election Commission"
+      }
+    ],
+    "issuing_medical_authority": {
+      "members": [
+        "Dr. A. Ophthalmologist",
+        "Dr. B. ENT Specialist"
+      ],
+      "chairperson": "Dr. C. Specialist",
+      "seal": true
+    }
+  },
+  "AnnexureVII_Disability_FormVII": {
+    "certificate_number": "DIS-VII-3001",
+    "date_of_issue": "17/04/2025",
+    "applicant_name": "Vikram Desai",
+    "date_of_birth": "05/11/1978",
+    "age_years": 46,
+    "gender": "Male",
+    "registration_number": "REG-OTH-2025-03",
+    "permanent_address": "78 Other Road, Other Town, Other State, 345678",
+    "disabilities": [
+      {
+        "type": "Muscular Dystrophy",
+        "affected_part": "Upper limbs",
+        "diagnosis": "Duchenne MD",
+        "impairment_percent": "65%"
+      }
+    ],
+    "condition_progression": "Progressive",
+    "reassessment": {
+      "necessary": true,
+      "after_years": 2,
+      "valid_till": "17/04/2027"
+    },
+    "proof_of_residence": [
+      {
+        "document_name": "Driving License",
+        "date_of_issue": "10/02/2019",
+        "issuing_authority": "RTO"
+      }
+    ],
+    "issuing_medical_authority": {
+      "authority": "Dr. D. Neurologist",
+      "countersignature": "Dr. E. CMO",
+      "seal": true
+    }
+  },
+  "AnnexureVIIIa_PhysicalLimitation": {
+    "certificate_for": "Writing limitation",
+    "applicant_name": "Anita Mehra",
+    "disability_and_percent": "Cerebral palsy – 50%",
+    "parent_name": "Ramesh Mehra",
+    "residence": "22 Limit Street, Limit Town, Limit State",
+    "issuing_official": "Dr. F. Specialist",
+    "designation": "Chief Medical Officer",
+    "seal": true,
+    "place": "Limit City",
+    "date": "18/04/2025"
+  },
+  "AnnexureVIIIb_ScribeUndertaking": {
+    "candidate_name": "Anita Mehra",
+    "disability": "Cerebral palsy – 50%",
+    "examination_name": "Test Examination 2025",
+    "application_or_roll_no": "ROLL-2025-1001",
+    "centre_name": "Test Centre",
+    "city": "Limit City",
+    "highest_qualification_candidate": "Bachelor’s Degree",
+    "highest_qualification_scribe": "Graduate",
+    "place": "Limit City",
+    "date": "18/04/2025",
+    "signatures": {
+      "candidate": "Anita Mehra",
+      "scribe": "Scribe Person"
+    }
+  },
+  "AppendixIXa_SpecifiedDisabilityCertificate": {
+    "applicant_name": "Sameer Khan",
+    "parent_name": "Mohammed Khan",
+    "residence": "90 Specified Road, Spec Town, Spec State, 567890",
+    "age_years": 28,
+    "disability": "Less than 40% – Dysgraphia",
+    "support_required": "Scribe",
+    "aids_assistive_devices": ["None"],
+    "valid_upto": "18/10/2025",
+    "issuing_authorities": [
+      "Dr. G. Rehabilitation Psychologist",
+      "Dr. H. Specialist"
+    ],
+    "chairperson": "Dr. I. CMO",
+    "seal": true
+  },
+  "AppendixIXb_ScribeUndertaking_Specified": {
+    "candidate_name": "Sameer Khan",
+    "disability": "Dysgraphia – 30%",
+    "examination_name": "Test Examination 2025",
+    "roll_no": "ROLL-2025-1002",
+    "centre_name": "Spec Centre",
+    "district": "Spec District",
+    "state": "Spec State",
+    "qualification_candidate": "BA",
+    "qualification_scribe": "BA",
+    "place": "Spec City",
+    "date": "19/04/2025",
+    "signature": "Sameer Khan"
+  },
+  "AnnexureX_NoObjectionCertificate": {
+    "employee_name": "Kavita Joshi",
+    "designation": "Assistant Manager",
+    "office_name_address": "Demo Dept., 123 Dept. Road, Demo City",
+    "date_of_joining": "01/07/2018",
+    "vacancy_circular_no": "VAC-2025-050",
+    "vacancy_circular_date": "01/04/2025",
+    "post_applied_for": "Senior Manager",
+    "vigilance_status": "None pending",
+    "integrity_status": "Beyond doubt",
+    "last_penalty_date": "None",
+    "signature": "Head of Department",
+    "seal": true,
+    "place": "Demo City",
+    "date": "20/04/2025"
+  }
+}

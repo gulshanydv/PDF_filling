@@ -1,0 +1,22 @@
+{
+  "undertaking": {
+    "parent_name": "Ramesh Kumar",
+    "child_name": "Ananya Kumar",
+    "date": "2025-04-23",
+    "place": "Ambassa",
+    "mobile_no": "9876543210"
+    },
+
+    "service_certificate": {
+      "employee_name": "Ramesh Kumar",
+      "employment_type": "Regular",
+      "designation": "Junior Engineer",
+      "department": "Ministry of Railways",
+      "employment_category": "Central Govt.",
+      "is_transferable": true,
+      "office_address": "Railway Bhawan, New Delhi, India - 110001",
+      "office_phone": "office phone no.: 011-12345678",
+      "place": "Delhi",
+      "date": "2025-05-23"
+    }
+}
