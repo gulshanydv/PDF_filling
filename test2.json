@@ -1,0 +1,31 @@
+{
+    "declarant_name": "Ananya Sharma",
+    "relation_type": "D/O",
+    "relation_name": "Rajesh Sharma",
+    "age": "29",
+    "address": "123, Green Valley Apartment, Sector 22, Hyderabad, Telangana, 500072",
+    "employment_status": "Unemployed",
+    "land_ownership": "None",
+    "government_scheme_beneficiary": "No",
+    "business_activity": "None",
+    "vehicle_ownership": "None",
+    "declaration_truth": true,
+    "disqualification_consent": true,
+    "change_notification_commitment": true,
+    "date": "2025-04-25",
+    "place": "Hyderabad",
+    "signature": "Ananya Sharma",
+    "mobile_number": "9876543210",
+    "aadhaar_number": "1234-5678-9012",
+    "witness_1": {
+      "name": "Priya Reddy",
+      "signature": "Priya Reddy",
+      "contact": "9123456789"
+    },
+    "witness_2": {
+      "name": "Ravi Kumar",
+      "signature": "Ravi Kumar",
+      "contact": "9988776655"
+    }
+  }
+  

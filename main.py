@@ -165,7 +165,7 @@ if uploaded_pdf and uploaded_json:
             output_pdf_path = os.path.join(tempfile.gettempdir(), "filled_output.pdf")
             WeasyHTML(string=combined_html).write_pdf(
                 output_pdf_path,
-                stylesheets=[CSS(string='@page { size: 157.5mm 222.75mm !important; margin: 1cm!important; }')]
+                stylesheets=[CSS(string='@page { size: 157.5mm 222.75mm !important; margin: 1cm; }')]
             )
 
             with open(output_pdf_path, "rb") as f:
