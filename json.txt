@@ -535,3 +535,98 @@ test2.pdf
     }
   }
   
+
+
+
+tests.pdf
+{
+  "lotti": ["LOTTO 1", "LOTTO 2"],
+  "denominazione_operatore_economico": "EcoServizi S.p.A.",
+  "tipologia_societaria": "Società per Azioni",
+  "partita_iva_codice_fiscale": "12345678901",
+  "forma_partecipazione": "Mandataria",
+  "nominativo": "Mario Rossi",
+  "qualifica": "Legale Rappresentante"
+}
+
+
+
+DocumentDuvri-1
+
+{
+  "allega_DVR_POS": [
+    {
+      "SI" : true,
+      "NO" : false
+    }
+  ],
+
+  "azienda": {
+    "nome": "Gamma Servizi S.r.l.",
+    "allegare_dvr_pos": true
+  },
+  "medico_competente": {
+    "medico_competente": "AAAAAAAAAAAAAAa",
+    "telefono": "+39 055 1234567",
+    "email": "medico@gammaservizi.it"
+  },
+  "datore_di_lavoro": {
+    "datore_di_lavoro": "BBBBBBBBB",
+    "telefono": "+39 055 7654321",
+    "email": "datore@gammaservizi.it"
+  },
+  "rspp": {
+    "rspp": "CCCCCCCCCCCCC",
+    "telefono": "+39 334 9876543",
+    "email": "rspp@gammaservizi.it"
+  },
+  "capocantiere": {
+    "capocantiere": "DDDDDDDDddddd",
+    "telefono": "+39 329 1122334",
+    "email": "capocantiere@gammaservizi.it"
+  },
+  "preposto_referente": {
+    "preposto_referente":"EEEEEEEEEEEE",
+    "telefono": "+39 388 5566778",
+    "email": "preposto@gammaservizi.it"
+  },
+  "descrizione_attivita": {
+    "descrizione": "Manutenzione impianti elettrici presso sede centrale. L’attività include controllo periodico, sostituzione componenti difettosi, e verifica normativa.",
+    "rischi": ["contatto elettrico", "cadute dall’alto", "incendio"],
+    "subappalto": "Nessuno",
+    "tempistiche": "Interventi programmati mensili",
+    "periodicita": "P"
+  },
+  "composizione_squadra": {
+    "squadra": [
+      "1 Responsabile tecnico",
+      "2 Elettricisti qualificati",
+      "1 Addetto sicurezza"
+    ],
+    "subappalto": false
+  },
+  "valutazione_dei_rischi": [
+    {
+      "fase": "Controllo quadri elettrici",
+      "rischi": ["Elettrocuzione", "scosse", "ustioni"],
+      "attrezzature": ["Multimetro", "cacciaviti isolati"],
+      "materiali": ["asdfjals","lkjlkjlkj"],
+      "dpi_misure_cautela": ["Guanti isolanti", "occhiali protettivi", "scarpe antinfortunistiche"]
+    },
+    {
+      "fase": "Sostituzione componenti",
+      "rischi": ["Caduta", "tagli", "contatti elettrici"],
+      "attrezzature": ["Scala a norma", "utensili manuali"],
+      "materiali": ["asdfjals","lkjlkjlkj"],
+      "dpi_misure_cautela": ["Imbracatura", "guanti da lavoro", "casco"]
+    },
+    {
+      "fase": "Verifica impianti",
+      "rischi": ["Cortocircuiti", "fumi", "scintille"],
+      "attrezzature": ["Tester", "documentazione tecnica"],
+      "materiali": ["asdfjals","lkjlkjlkj"],
+      "dpi_misure_cautela": ["DPI completi", "estintore a polvere nelle vicinanze"]
+    }
+  ]
+}
+
